@@ -8,6 +8,6 @@
 
 •	📫 Reach me @ ram.marthi@gmail.com
 
-•	😄 Data Scientist, Data Analyst, Data Architect, QlikSense Data Architect, Marketing Analytics, Energy Data Management
+•	😄 Data Scientist, Data Analyst, Data Architect, QlikSense Data Architect, Marketing Analytics, Central Data Management, Energy Data Management
 
 •	⚡ In god we trust; rest all must bring data -- William Edwards Deming.
