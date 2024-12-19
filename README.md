@@ -2,7 +2,7 @@
 
 •	👀 I’m interested in data science, machine learning, artificial intelligence, deep learning and its applications
 
-•	🌱 I’m currently working on business intelligence, machine learning, artificial intelligence, LLMs, deep learning and natural language processing
+•	🌱 I’m currently working on business intelligence, machine learning, artificial intelligence, deep learning and natural language processing
 
 •	💞️ I’m looking to collaborate on ML, DL, AI, NLP, LLMs
 
