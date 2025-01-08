@@ -1,6 +1,6 @@
 -👋 Hi, this is ***Ram Marthi***
 
-  -👀 I’m interested in and working on business intelligence, machine learning, artificial intelligence, deep learning and natural language processing and its applications in various domains
+  ***👀 I’m interested in and working on business intelligence, machine learning, artificial intelligence, deep learning and natural language processing and its applications in various domains***
 
   -	💞️ I’m looking to collaborate on ML, DL, AI, NLP, LLMs
 
