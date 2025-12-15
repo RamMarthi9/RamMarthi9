@@ -1,12 +1,19 @@
 
-👋 Hi, this is ***Ram Marthi***
+# 💫 About Me:
+👋 Hi, this is ***Ram Marthi***<br><br>***👀 I’m interested in and working on business intelligence, machine learning, artificial intelligence, deep learning and natural language processing and its applications in various domains***<br><br>  -	💞️ I’m looking to collaborate on ML, DL, AI, NLP, LLMs<br><br>  -	📫 Reach me @ ram.marthi@gmail.com<br><br>  - 😄 Data Scientist, Data Analyst, Data Architect, QlikSense Data Architect, Marketing Analytics, Central Data Management, Energy Data Management<br><br>  - ⚡ In god we trust; rest all must bring data -- William Edwards Deming.
 
-***👀 I’m interested in and working on business intelligence, machine learning, artificial intelligence, deep learning and natural language processing and its applications in various domains***
 
-  -	💞️ I’m looking to collaborate on ML, DL, AI, NLP, LLMs
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rmarthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ram.marthi@gmail.com) 
 
-  -	📫 Reach me @ ram.marthi@gmail.com
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RamMarthi9&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RamMarthi9&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamMarthi9&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  - 😄 Data Scientist, Data Analyst, Data Architect, QlikSense Data Architect, Marketing Analytics, Central Data Management, Energy Data Management
+---
+[![](https://visitcount.itsvg.in/api?id=RamMarthi9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  - ⚡ In god we trust; rest all must bring data -- William Edwards Deming.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
