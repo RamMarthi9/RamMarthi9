@@ -1,12 +1,13 @@
 
 # 💫 About Me:
-  💡An experienced Business Intelligence (BI) Analyst, Data Scientist and Product Manager with 15+ years of experience driving data strategy, machine learning, deep learning, natural language processing and analytics solutions
 
-  💡Qlik Certified Data Architect
+  💡An experienced Business Intelligence (BI) Analyst, Data Scientist and Product Manager with 15+ years of Data ETL, Data Modeling, Dashboarding, EDA, Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP) Model Building, Performance tuing and data science project deployment solutions
+
+  💡Qlik Certified Data Architect,
   
   💡Proven expertise in transforming business requirements into scalable data products using Python, SQL, Qlik, and Power BI
 
-  💡Adept at leading end-to-end BI, ML model development, stakeholder management, and data-driven decision-making across logistics, auto, healthcare, insurance, retail and energy domain
+  💡Adept at leading end-to-end ETL, EDA, BI, ML, DL, NLP, model development, stakeholder management, and data-driven decision-making across master data management, client onboarding, logistics, auto, healthcare, insurance, retail and energy domains
 
   💡Passionate about leveraging data science to deliver actionable insights, optimize operations, and shape product roadmaps that generate measurable business impact
 
