@@ -1,6 +1,14 @@
 
 # 💫 About Me:
-An experienced Business Intelligence Analyst, Data Scientist and Product Manager with 15+ years of experience driving data strategy, machine learning, deep learning, natural language processing and analytics solutions. Proven expertise in transforming business requirements into scalable data products using Python, SQL, Qlik, and Power BI. Adept at leading end-to-end BI, ML model development, stakeholder management, and data-driven decision-making across logistics, auto, healthcare, insurance, retail and energy domain. Passionate about leveraging data science to deliver actionable insights, optimize operations, and shape product roadmaps that generate measurable business impact.
+  💡An experienced Business Intelligence (BI) Analyst, Data Scientist and Product Manager with 15+ years of experience driving data strategy, machine learning, deep learning, natural language processing and analytics solutions
+
+  💡Qlik Certified Data Architect
+  
+  💡Proven expertise in transforming business requirements into scalable data products using Python, SQL, Qlik, and Power BI
+
+  💡Adept at leading end-to-end BI, ML model development, stakeholder management, and data-driven decision-making across logistics, auto, healthcare, insurance, retail and energy domain
+
+  💡Passionate about leveraging data science to deliver actionable insights, optimize operations, and shape product roadmaps that generate measurable business impact
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rmarthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ram.marthi@gmail.com) 
