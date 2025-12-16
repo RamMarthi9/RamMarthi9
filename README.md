@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, this is ***Ram Marthi***<br><br>***👀 I’m interested in and working on business intelligence, machine learning, artificial intelligence, deep learning and natural language processing and its applications in various domains***<br><br>  -	💞️ I’m looking to collaborate on ML, DL, AI, NLP, LLMs<br><br>  -	📫 Reach me @ ram.marthi@gmail.com<br><br>  - 😄 Data Scientist, Data Analyst, Data Architect, QlikSense Data Architect, Marketing Analytics, Central Data Management, Energy Data Management<br><br>  - ⚡ In god we trust; rest all must bring data -- William Edwards Deming.
+An experienced Business Intelligence Analyst and Manager, Data Scientist and AI Product Management professional with 15+ years of experience driving data strategy, machine learning solutions, and analytics product innovations. Proven expertise in transforming business requirements into scalable data products using Python, SQL, Qlik, and Power BI. Adept at leading end-to-end ML model development, stakeholder management, and data-driven decision-making across logistics, auto, healthcare, insurance, retail and energy domain. Passionate about leveraging data science to deliver actionable insights, optimize operations, and shape product roadmaps that generate measurable business impact.
 
 
 ## 🌐 Socials:
