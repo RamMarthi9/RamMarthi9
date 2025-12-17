@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-  💡An experienced Business Intelligence (BI) Analyst, Data Scientist and Product Manager with 15+ years of performing data analysis, building, maintaining and deploying Data ETL pipelines, Data Modeling, Dashboarding, Exploratory Data Analysis (EDA), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP) Model Building, Performance tuing and data science project deployment solutions
+  💡An experienced Business Intelligence (BI) Analyst, Data Scientist and Product Manager with 15+ years of performing data analysis, building, maintaining and deploying Data ETL pipelines, Data Models, Dashboards, Performing Exploratory Data Analysis (EDA), Machine Learning (ML), Deep Learning (DL) and Natural Language Processing (NLP) Model Building, Performance tuing and data science project deployment solutions
 
   💡Qlik Certified Data Architect
   
